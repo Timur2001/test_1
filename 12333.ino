@@ -1,4 +1,4 @@
-#include <EtherCard.h>
+﻿#wdawhdbawkjd jwlknd lawndlakwn dinclude <EtherCard.h>
 
 //определяем пины к которым мы присоединим нашу MAX7219
 #define DIN 8
